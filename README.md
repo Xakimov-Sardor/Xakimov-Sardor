@@ -2,7 +2,7 @@
 - I’m interested in backend development
 - I’m currently learning python
 
-
+<br /> <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xakimov-sardor&show_icons=true&theme=transparent)
 
 <br /> <br />
