@@ -7,7 +7,7 @@
 
 <br /> <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjarbek-ismatov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xakimov-sardor)](https://github.com/anuraghazra/github-readme-stats)
 <br /> 
 ![](https://komarev.com/ghpvc/?username=xakimov-sardor)
 <!---
