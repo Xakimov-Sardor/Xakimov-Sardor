@@ -1,3 +1,3 @@
-- Hi, I’m @Xakimov-Sardor
+- Hi, I’m Sardor
 - I’m interested in backend development
 - I’m currently learning python
